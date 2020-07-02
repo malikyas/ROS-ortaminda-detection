@@ -162,7 +162,7 @@ Workspace'lerimizi kurduk. Şimdi işin can alıcı kısmındayız.
 
 ![image](https://user-images.githubusercontent.com/46991761/86356443-eefce200-bc74-11ea-8171-03c9bdf28b65.png)
 
-**4.6-** Son olarak yeni bir terminalde "rosrun ros_cv ros_predict.py" komutunu çalıştırın. Bir kaç saniye sonra çıktı ekrana gelecektirç
+**4.6-** Son olarak yeni bir terminalde "rosrun ros_cv ros_predict.py" komutunu çalıştırın. Bir kaç saniye sonra çıktı ekrana gelecektir.
 
 **4.7-** Örnek mask çıktısı aşağıda görülmekte.
 
