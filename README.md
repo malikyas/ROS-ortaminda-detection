@@ -176,7 +176,9 @@ Elimden geldiğince açık bir şekilde anlatmaya çalıştım. Eğer sorun yaş
 **Mail:** unutkan2013@yandex.com
 **LinkedIn:** https://www.linkedin.com/in/mertcan-kar%C4%B1k-b37429189/
 
+# Lisans & Copyright
 
+MIT ile lisanslandı.
 
 
 
